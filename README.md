@@ -7,4 +7,4 @@ L’application permet  aux étudiants de visualiser, d’éditer, d’ajouter, 
 les différents types de cursus. Elle permet  aussi  a un étudiant de saisir sa situation actuelle en
 précisant le cursus de formation, la liste des uvs aux quelles il a déjà été inscrit avec leur résultat et les
 équivalences de crédits obtenues.
-dans ce projet , on utilise le framework Qt et sqlite.
+dans ce projet , le framework Qt , le service de gestion de base de données sqlite et le langage C++ sont les technologies qui ont été utilisées .
